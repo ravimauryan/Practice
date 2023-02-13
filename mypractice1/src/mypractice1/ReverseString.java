@@ -10,6 +10,7 @@ public class ReverseString {
 		for(int i=ch.length-1;i>=0;i--) {
 			
 			out=out+ch[i];
+			
 		}
 		System.out.println(out);
 	}
