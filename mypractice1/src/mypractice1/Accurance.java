@@ -13,7 +13,9 @@ public class Accurance {
 	public static void main(String[] args) {
 		Accurance ob=new Accurance();
 		Scanner sc=new Scanner(System.in);
-		String st="";
+		int a[]=sc.nextInt();
+		
+		
 		
 	}
 
